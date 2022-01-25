@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.6.0"
-leafwing-input-manager = { git = "https://github.com/Leafwing-Studios/leafwing-input-manager", commit = "593f85586983eae86015c21beb28f52ac270d96e" }
+leafwing-input-manager = "0.1.2"
 strum = "0.23.0"
 
 # Enable only a small amount of optimization in debug mode
